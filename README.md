@@ -11,7 +11,7 @@ I build the infrastructure that connects onchain capital with probabilistic reas
 - **Prediction Market Protocols** - AMM-based binary & scalar markets, LMSR pricing, permissionless resolution
 - **Trading Automation** - signal ingestion, position management, order routing, real-time risk controls
 - **Web3 Casino Game Engines** - Provably-fair casino infra on Solana with Switchboard + ORAO VRF. Baccarat, Blackjack, Crash, Plinko, Dice, Limbo, Mines, Coinflip, Slots, Jackpot. Cocos + Phaser frontends.
-- **Market Making** - liquidity provisioning, dynamic spread logic, inventory management on CLOB exchanges
+- "bundler & sniper" - Meteora, Pumpfun, etc 
 - **DeFi Infrastructure** - oracle aggregation, subgraph indexing, gas optimization
 ---
 
